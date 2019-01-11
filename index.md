@@ -5,5 +5,5 @@ Currently living in Johannesburg, South Africa looking for job opportunities and
 
 ### Education
 * Degree in Business Management and Information Systems
-### Languages
+###Languages
 * Experience in HTML, CSS, Javascript, React, Java, Python, SQL and Pascal.
